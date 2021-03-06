@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "update-amethyst-conf": "node ./util/update-config.js"
+    "update-amethyst-conf": "node ./bin/cli.js"
   },
   "repository": "git@github.com:albingroen/amethyst-conf.git",
   "author": "Albin Groen <albin.groen@gmail.com>",
