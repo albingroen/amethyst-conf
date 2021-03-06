@@ -1,4 +1,6 @@
-const updateConfig = require("./util/update-config");
+#!/usr/bin/env node
+
+const updateConfig = require("../util/update-config");
 const argv = require('minimist')(process.argv.slice(2));
 
 function cli() {
