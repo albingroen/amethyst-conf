@@ -28,7 +28,7 @@ A Node.js package and CLI for programmatically updating your Amethyst configurat
 
 ### Module
 
-    import { updateConfig: updateAmethystConfig } from 'amethyst-conf'
+    import { updateConfig as updateAmethystConfig } from 'amethyst-conf'
 
     updateAmethystConfig({
       screen-padding-left: 700,
