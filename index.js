@@ -1,4 +1,4 @@
-import updateConfig from './util/update-config'
+const updateConfig = require('./util/update-config')
 
 module.exports = {
   updateConfig
